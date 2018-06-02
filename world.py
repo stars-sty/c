@@ -1,1 +1,1 @@
-print"hello wossssssss" 
+ssssssssprint"hello wossssssss" 
